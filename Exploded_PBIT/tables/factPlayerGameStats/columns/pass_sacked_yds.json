@@ -1,0 +1,14 @@
+{
+  "name": "pass_sacked_yds",
+  "dataType": "int64",
+  "sourceColumn": "pass_sacked_yds",
+  "formatString": "0",
+  "lineageTag": "4dd98174-1e90-4f08-bf18-ffe9f0df5ac4",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

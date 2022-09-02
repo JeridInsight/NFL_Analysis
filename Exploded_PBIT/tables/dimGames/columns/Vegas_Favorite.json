@@ -1,0 +1,13 @@
+{
+  "name": "Vegas_Favorite",
+  "dataType": "string",
+  "sourceColumn": "Vegas_Favorite",
+  "lineageTag": "15672927-4027-4181-9c14-65b97ef8841a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

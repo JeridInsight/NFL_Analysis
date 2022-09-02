@@ -1,0 +1,14 @@
+{
+  "name": "fumbles_lost",
+  "dataType": "int64",
+  "sourceColumn": "fumbles_lost",
+  "formatString": "0",
+  "lineageTag": "4475ad5c-c153-4052-a06e-0e40a2c270de",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

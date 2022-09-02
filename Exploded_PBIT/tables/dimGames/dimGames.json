@@ -1,0 +1,14 @@
+{
+  "name": "dimGames",
+  "lineageTag": "397db2ec-9934-437f-9600-0de7eb47f064",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

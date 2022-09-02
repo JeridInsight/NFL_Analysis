@@ -1,0 +1,17 @@
+{
+  "name": "Total_SDP",
+  "dataType": "double",
+  "sourceColumn": "Total_SDP",
+  "lineageTag": "400a9523-05dc-4bfa-b57a-6aaaaf373baf",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

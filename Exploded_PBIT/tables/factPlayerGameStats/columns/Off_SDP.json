@@ -1,0 +1,17 @@
+{
+  "name": "Off_SDP",
+  "dataType": "double",
+  "sourceColumn": "Off_SDP",
+  "lineageTag": "d53761a5-f01f-4172-afac-ba3a87f91a07",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

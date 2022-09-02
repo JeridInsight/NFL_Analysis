@@ -1,0 +1,16 @@
+{
+  "name": "factPlayerGameStats-29d9bbc9-7b68-40c9-bb24-d5e5346d8e91",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Excel.Workbook(File.Contents(Local_Data_File_Path), null, true),",
+      "    factPlayerGameStats_Sheet = Source{[Item=\"factPlayerGameStats\",Kind=\"Sheet\"]}[Data],",
+      "    #\"Promoted Headers\" = Table.PromoteHeaders(factPlayerGameStats_Sheet, [PromoteAllScalars=true]),",
+      "    #\"Changed Type\" = Table.TransformColumnTypes(#\"Promoted Headers\",{{\"game_id\", type text}, {\"Player_ID\", type text}, {\"Team_abbrev\", type text}, {\"Oppo_abbrev\", type text}, {\"pass_cmp\", Int64.Type}, {\"pass_att\", Int64.Type}, {\"pass_yds\", Int64.Type}, {\"pass_td\", Int64.Type}, {\"pass_int\", Int64.Type}, {\"pass_sacked\", Int64.Type}, {\"pass_sacked_yds\", Int64.Type}, {\"pass_long\", Int64.Type}, {\"pass_rating\", type number}, {\"rush_att\", Int64.Type}, {\"rush_yds\", Int64.Type}, {\"rush_td\", Int64.Type}, {\"rush_long\", Int64.Type}, {\"targets\", Int64.Type}, {\"rec\", Int64.Type}, {\"rec_yds\", Int64.Type}, {\"rec_td\", Int64.Type}, {\"rec_long\", Int64.Type}, {\"fumbles_lost\", Int64.Type}, {\"rush_scrambles\", Int64.Type}, {\"designed_rush_att\", Int64.Type}, {\"comb_pass_rush_play\", Int64.Type}, {\"comb_pass_play\", Int64.Type}, {\"comb_rush_play\", Int64.Type}, {\"two_point_conv\", Int64.Type}, {\"total_ret_td\", Int64.Type}, {\"offensive_fumble_recovery_td\", Int64.Type}, {\"pass_yds_bonus\", Int64.Type}, {\"rush_yds_bonus\", Int64.Type}, {\"rec_yds_bonus\", Int64.Type}, {\"Total_DKP\", type number}, {\"Off_DKP\", type number}, {\"Total_FDP\", type number}, {\"Off_FDP\", type number}, {\"Total_SDP\", type number}, {\"Off_SDP\", type number}, {\"pass_target_yds\", Int64.Type}, {\"pass_poor_throws\", Int64.Type}, {\"pass_blitzed\", Int64.Type}, {\"pass_hurried\", Int64.Type}, {\"rush_yds_before_contact\", Int64.Type}, {\"rush_yac\", Int64.Type}, {\"rush_broken_tackles\", Int64.Type}, {\"rec_air_yds\", type number}, {\"rec_yac\", Int64.Type}, {\"rec_drops\", Int64.Type}, {\"offense\", Int64.Type}, {\"off_pct\", Int64.Type}})",
+      "in",
+      "    #\"Changed Type\""
+    ]
+  }
+}

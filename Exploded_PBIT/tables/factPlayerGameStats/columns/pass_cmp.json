@@ -1,0 +1,14 @@
+{
+  "name": "pass_cmp",
+  "dataType": "int64",
+  "sourceColumn": "pass_cmp",
+  "formatString": "0",
+  "lineageTag": "db8f62a4-c529-41f9-99e0-2b24fe89a3d7",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

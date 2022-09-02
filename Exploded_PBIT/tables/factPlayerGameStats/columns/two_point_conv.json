@@ -1,0 +1,14 @@
+{
+  "name": "two_point_conv",
+  "dataType": "int64",
+  "sourceColumn": "two_point_conv",
+  "formatString": "0",
+  "lineageTag": "13dedce1-fec6-4979-9153-ce0202075ce7",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rush_yds",
+  "dataType": "int64",
+  "sourceColumn": "rush_yds",
+  "formatString": "0",
+  "lineageTag": "19e2c1ce-7752-441e-85e2-6fe57103e979",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

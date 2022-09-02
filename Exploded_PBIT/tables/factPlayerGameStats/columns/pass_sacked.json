@@ -1,0 +1,14 @@
+{
+  "name": "pass_sacked",
+  "dataType": "int64",
+  "sourceColumn": "pass_sacked",
+  "formatString": "0",
+  "lineageTag": "067fe325-2c55-44fe-b3f5-78b3b25529ab",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

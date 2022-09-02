@@ -1,0 +1,19 @@
+{
+  "name": "dimPlayers-dc3fc57c-69b2-4c8f-8e4d-fd889c479d17",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Excel.Workbook(File.Contents(Local_Data_File_Path), null, true),",
+      "    dimPlayers_Sheet = Source{[Item=\"dimPlayers\",Kind=\"Sheet\"]}[Data],",
+      "    #\"Promoted Headers\" = Table.PromoteHeaders(dimPlayers_Sheet, [PromoteAllScalars=true]),",
+      "    #\"Changed Type\" = Table.TransformColumnTypes(#\"Promoted Headers\",{{\"Old_Player_ID\", type text}, {\"Player_ID\", type text}, {\"Position\", type text}, {\"Player_Full_Name\", type text}, {\"Team\", type text}, {\"First_Name\", type text}, {\"Last_Name\", type text}}),",
+      "    //Raw data is bad; Has (2) Player records for De'Michael Harris even though it shows him playing ",
+      "    //at the same position (\"WR\") and for the same team (\"IND\"); Removing one instance of him;  ",
+      "    #\"Filtered Rows1\" = Table.SelectRows(#\"Changed Type\", each [Old_Player_ID] <> \"HarrDe09\")",
+      "in",
+      "    #\"Filtered Rows1\""
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "comb_rush_play",
+  "dataType": "int64",
+  "sourceColumn": "comb_rush_play",
+  "formatString": "0",
+  "lineageTag": "51c14aea-6173-4094-bdcc-7f8344e91e50",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

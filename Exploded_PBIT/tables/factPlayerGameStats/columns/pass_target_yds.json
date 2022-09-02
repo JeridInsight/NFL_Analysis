@@ -1,0 +1,14 @@
+{
+  "name": "pass_target_yds",
+  "dataType": "int64",
+  "sourceColumn": "pass_target_yds",
+  "formatString": "0",
+  "lineageTag": "4d2841ba-4a7d-4af7-bba6-7c55f3bd895c",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

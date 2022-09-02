@@ -1,0 +1,14 @@
+{
+  "name": "pass_td",
+  "dataType": "int64",
+  "sourceColumn": "pass_td",
+  "formatString": "0",
+  "lineageTag": "78a05bf9-05b4-4ae5-b476-115c7176e80e",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

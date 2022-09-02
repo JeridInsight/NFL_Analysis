@@ -1,0 +1,14 @@
+{
+  "name": "pass_hurried",
+  "dataType": "int64",
+  "sourceColumn": "pass_hurried",
+  "formatString": "0",
+  "lineageTag": "2ee5c39c-d4b2-434a-928f-1b248c9314b4",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

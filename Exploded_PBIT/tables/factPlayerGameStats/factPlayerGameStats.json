@@ -1,0 +1,14 @@
+{
+  "name": "factPlayerGameStats",
+  "lineageTag": "3e0498b5-4a5b-4e84-8248-e970aa162d1b",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

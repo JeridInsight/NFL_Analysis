@@ -1,0 +1,14 @@
+{
+  "name": "rec_drops",
+  "dataType": "int64",
+  "sourceColumn": "rec_drops",
+  "formatString": "0",
+  "lineageTag": "58ec6749-9036-4d3f-9ff9-3439e8d6fd96",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

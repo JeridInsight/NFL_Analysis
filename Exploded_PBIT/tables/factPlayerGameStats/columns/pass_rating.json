@@ -1,0 +1,17 @@
+{
+  "name": "pass_rating",
+  "dataType": "double",
+  "sourceColumn": "pass_rating",
+  "lineageTag": "ada598d7-048b-4250-87ac-e20df80273db",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

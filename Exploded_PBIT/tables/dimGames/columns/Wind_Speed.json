@@ -1,0 +1,14 @@
+{
+  "name": "Wind_Speed",
+  "dataType": "int64",
+  "sourceColumn": "Wind_Speed",
+  "formatString": "0",
+  "lineageTag": "c0861db3-d182-404c-8f4d-62a033f5e9d9",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

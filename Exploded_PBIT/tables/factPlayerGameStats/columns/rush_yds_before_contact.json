@@ -1,0 +1,14 @@
+{
+  "name": "rush_yds_before_contact",
+  "dataType": "int64",
+  "sourceColumn": "rush_yds_before_contact",
+  "formatString": "0",
+  "lineageTag": "0fb64e9d-19ea-4b24-9e08-ccfa81031c7a",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

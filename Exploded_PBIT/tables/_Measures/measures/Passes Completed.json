@@ -1,0 +1,7 @@
+{
+  "name": "Passes Completed",
+  "expression": "CALCULATE(SUM(factPlayerGameStats[pass_cmp]))",
+  "formatString": "0",
+  "displayFolder": "Base_Measures\\Passing",
+  "lineageTag": "04dbea5a-1879-4e87-b998-955e6f47b355"
+}

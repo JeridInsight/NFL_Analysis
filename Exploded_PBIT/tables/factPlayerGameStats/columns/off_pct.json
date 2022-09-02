@@ -1,0 +1,14 @@
+{
+  "name": "off_pct",
+  "dataType": "int64",
+  "sourceColumn": "off_pct",
+  "formatString": "0",
+  "lineageTag": "da122b6d-5125-4139-b8fc-0e04144c0ccc",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

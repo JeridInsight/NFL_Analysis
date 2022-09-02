@@ -1,0 +1,14 @@
+{
+  "name": "targets",
+  "dataType": "int64",
+  "sourceColumn": "targets",
+  "formatString": "0",
+  "lineageTag": "95871ff8-c1dd-45f8-b096-3c494041c956",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rec_td",
+  "dataType": "int64",
+  "sourceColumn": "rec_td",
+  "formatString": "0",
+  "lineageTag": "452277b8-a9a7-4145-b0bd-c5688b401cad",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

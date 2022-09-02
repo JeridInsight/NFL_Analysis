@@ -1,0 +1,13 @@
+{
+  "name": "Visiting_Team",
+  "dataType": "string",
+  "sourceColumn": "Visiting_Team",
+  "lineageTag": "55a22aa0-318a-4dc2-807d-82e1b6cca56e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

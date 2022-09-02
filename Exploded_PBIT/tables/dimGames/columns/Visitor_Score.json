@@ -1,0 +1,14 @@
+{
+  "name": "Visitor_Score",
+  "dataType": "int64",
+  "sourceColumn": "Visitor_Score",
+  "formatString": "0",
+  "lineageTag": "c36f2edf-f04c-4569-bcc4-4f33270af66f",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

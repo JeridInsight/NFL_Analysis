@@ -1,0 +1,17 @@
+{
+  "name": "Over_Under",
+  "dataType": "double",
+  "sourceColumn": "Over_Under",
+  "lineageTag": "b98fc911-ce36-4329-991c-64cd48d504ca",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

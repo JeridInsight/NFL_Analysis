@@ -1,0 +1,13 @@
+{
+  "name": "Team_abbrev",
+  "dataType": "string",
+  "sourceColumn": "Team_abbrev",
+  "lineageTag": "93b03692-4bf2-40ba-9549-05265e77e9d7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

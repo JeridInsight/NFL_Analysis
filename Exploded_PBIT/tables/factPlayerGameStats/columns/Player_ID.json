@@ -1,0 +1,13 @@
+{
+  "name": "Player_ID",
+  "dataType": "string",
+  "sourceColumn": "Player_ID",
+  "lineageTag": "c28e5c2e-8bcc-40f1-95d7-81035dc0dc24",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

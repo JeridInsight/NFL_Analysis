@@ -1,0 +1,7 @@
+{
+  "name": "Passes Blitzed",
+  "expression": "CALCULATE(SUM(factPlayerGameStats[pass_blitzed]))",
+  "formatString": "0",
+  "displayFolder": "Base_Measures\\Passing",
+  "lineageTag": "28f3b6d6-4500-445c-aba9-75596a5eb541"
+}

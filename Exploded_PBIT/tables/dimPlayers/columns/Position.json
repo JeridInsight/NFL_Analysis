@@ -1,0 +1,13 @@
+{
+  "name": "Position",
+  "dataType": "string",
+  "sourceColumn": "Position",
+  "lineageTag": "7b32b0fd-e66d-443f-ac4c-078dcd1a7a5e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

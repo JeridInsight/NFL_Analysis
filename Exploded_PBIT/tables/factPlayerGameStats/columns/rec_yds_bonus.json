@@ -1,0 +1,14 @@
+{
+  "name": "rec_yds_bonus",
+  "dataType": "int64",
+  "sourceColumn": "rec_yds_bonus",
+  "formatString": "0",
+  "lineageTag": "6892bfa9-85bc-47df-9288-c6ef9ccb9401",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

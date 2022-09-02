@@ -1,0 +1,14 @@
+{
+  "name": "Temperature",
+  "dataType": "int64",
+  "sourceColumn": "Temperature",
+  "formatString": "0",
+  "lineageTag": "e3a7ca60-bafa-48b7-b1ec-e978bd37bd17",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "d0e6c185-af37-48db-86de-1d97e0905264",
+  "fromTable": "factPlayerGameStats",
+  "fromColumn": "Player_ID",
+  "toTable": "dimPlayers",
+  "toColumn": "Player_ID"
+}

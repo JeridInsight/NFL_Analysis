@@ -1,0 +1,14 @@
+{
+  "name": "Game_Year",
+  "dataType": "int64",
+  "sourceColumn": "Game_Year",
+  "formatString": "0",
+  "lineageTag": "67294c03-959e-4540-8561-ef36b02fa4c4",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}
