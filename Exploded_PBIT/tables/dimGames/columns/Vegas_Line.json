@@ -1,0 +1,17 @@
+{
+  "name": "Vegas_Line",
+  "dataType": "double",
+  "sourceColumn": "Vegas_Line",
+  "lineageTag": "f255367d-2686-4a8c-b25a-501373244f6c",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

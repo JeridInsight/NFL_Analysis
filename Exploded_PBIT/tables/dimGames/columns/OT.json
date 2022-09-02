@@ -1,0 +1,14 @@
+{
+  "name": "OT",
+  "dataType": "boolean",
+  "sourceColumn": "OT",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "lineageTag": "82e175e3-3701-47ad-8352-21fd831cbee4",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

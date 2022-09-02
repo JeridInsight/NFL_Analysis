@@ -1,0 +1,14 @@
+{
+  "name": "offense",
+  "dataType": "int64",
+  "sourceColumn": "offense",
+  "formatString": "0",
+  "lineageTag": "d6f33382-5e38-46ea-a97f-8769ae524b5a",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

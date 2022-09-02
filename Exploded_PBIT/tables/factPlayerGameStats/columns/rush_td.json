@@ -1,0 +1,14 @@
+{
+  "name": "rush_td",
+  "dataType": "int64",
+  "sourceColumn": "rush_td",
+  "formatString": "0",
+  "lineageTag": "b088dec1-c462-417e-9d74-49117e0802cb",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Total_FDP",
+  "dataType": "double",
+  "sourceColumn": "Total_FDP",
+  "lineageTag": "a0475ba9-5b71-480b-ab9f-32a49a37075d",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

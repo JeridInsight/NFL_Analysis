@@ -1,0 +1,38 @@
+{
+  "type": "calculated",
+  "name": "Duplicates",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "expression": [
+    "",
+    "VAR varCurrentValue = 'dimPlayers'[Player_ID]",
+    "VAR varInstances = ",
+    "    COUNTROWS(",
+    "        FILTER(",
+    "            'dimPlayers',",
+    "            'dimPlayers'[Player_ID] = varCurrentValue",
+    "        )",
+    "    )",
+    "var Result = ",
+    "    IF(",
+    "        varInstances > 1,",
+    "        \"Duplicate\",",
+    "        \"Unique\"",
+    "    )",
+    "RETURN",
+    "    Result"
+  ],
+  "lineageTag": "a1a73cf2-ac6f-4959-8f3e-6d2140614d99",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_ChangedProperties",
+      "value": "[\"IsHidden\"]"
+    }
+  ]
+}

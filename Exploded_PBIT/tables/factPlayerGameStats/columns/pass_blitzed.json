@@ -1,0 +1,14 @@
+{
+  "name": "pass_blitzed",
+  "dataType": "int64",
+  "sourceColumn": "pass_blitzed",
+  "formatString": "0",
+  "lineageTag": "b1d2fbab-bba5-4d0d-a7ad-542ea485c8e0",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

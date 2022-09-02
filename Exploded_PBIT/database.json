@@ -1,0 +1,46 @@
+{
+  "name": "f223bd62-b71e-4510-846d-d48a9e7818e6",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "en-US",
+    "expressions": [
+      {
+        "name": "Local_Data_File_Path",
+        "description": "The local path for the NLF_2002_Data.xlsx file on your machine...",
+        "kind": "m",
+        "expression": "null meta [IsParameterQuery=true, Type=\"Text\", IsParameterQueryRequired=true]",
+        "lineageTag": "d644cbb1-f5d6-4c4a-9f14-547d0f3796b0",
+        "annotations": [
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          }
+        ]
+      }
+    ],
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"factPlayerGameStats\",\"dimPlayers\",\"dimGames\",\"_Measures\",\"Local_Data_File_Path\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.107.841.0 (22.07)"
+      },
+      {
+        "name": "TabularEditor_SerializeOptions",
+        "value": "{\"IgnoreInferredObjects\":true,\"IgnoreInferredProperties\":true,\"IgnoreTimestamps\":true,\"SplitMultilineStrings\":true,\"PrefixFilenames\":false,\"LocalTranslations\":false,\"LocalPerspectives\":false,\"LocalRelationships\":false,\"Levels\":[\"Data Sources\",\"Perspectives\",\"Relationships\",\"Roles\",\"Tables\",\"Tables/Columns\",\"Tables/Hierarchies\",\"Tables/Measures\",\"Tables/Partitions\",\"Tables/Calculation Items\",\"Translations\"]}"
+      }
+    ]
+  }
+}

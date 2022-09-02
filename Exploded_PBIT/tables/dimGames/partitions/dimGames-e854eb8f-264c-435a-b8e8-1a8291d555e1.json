@@ -1,0 +1,16 @@
+{
+  "name": "dimGames-e854eb8f-264c-435a-b8e8-1a8291d555e1",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Excel.Workbook(File.Contents(Local_Data_File_Path), null, true),",
+      "    dimGames_Sheet = Source{[Item=\"dimGames\",Kind=\"Sheet\"]}[Data],",
+      "    #\"Promoted Headers\" = Table.PromoteHeaders(dimGames_Sheet, [PromoteAllScalars=true]),",
+      "    #\"Changed Type\" = Table.TransformColumnTypes(#\"Promoted Headers\",{{\"Game_ID\", type text}, {\"Game_Year\", Int64.Type}, {\"Game_Date\", type date}, {\"Visiting_Team\", type text}, {\"Home_Team\", type text}, {\"Visitor_Score\", Int64.Type}, {\"Home_Score\", Int64.Type}, {\"OT\", type logical}, {\"Roof\", type text}, {\"Surface\", type text}, {\"Temperature\", Int64.Type}, {\"Humidity\", Int64.Type}, {\"Wind_Speed\", Int64.Type}, {\"Vegas_Line\", type number}, {\"Vegas_Favorite\", type text}, {\"Over_Under\", type number}})",
+      "in",
+      "    #\"Changed Type\""
+    ]
+  }
+}

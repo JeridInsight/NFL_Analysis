@@ -1,0 +1,14 @@
+{
+  "name": "pass_att",
+  "dataType": "int64",
+  "sourceColumn": "pass_att",
+  "formatString": "0",
+  "lineageTag": "c889b42c-0b3e-49ac-aa26-0bd94526db5c",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "rec_air_yds",
+  "dataType": "double",
+  "sourceColumn": "rec_air_yds",
+  "lineageTag": "f23aad81-db37-45ce-9aaa-f11dffc689f8",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

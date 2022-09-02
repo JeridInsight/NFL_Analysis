@@ -1,0 +1,14 @@
+{
+  "name": "offensive_fumble_recovery_td",
+  "dataType": "int64",
+  "sourceColumn": "offensive_fumble_recovery_td",
+  "formatString": "0",
+  "lineageTag": "970de5ce-a4d9-4895-8612-79dbe4e8c1fa",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

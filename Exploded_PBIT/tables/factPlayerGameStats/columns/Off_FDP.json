@@ -1,0 +1,17 @@
+{
+  "name": "Off_FDP",
+  "dataType": "double",
+  "sourceColumn": "Off_FDP",
+  "lineageTag": "a2c478e8-0d27-4c6f-956a-7bdb7f1e58b6",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Humidity",
+  "dataType": "int64",
+  "sourceColumn": "Humidity",
+  "formatString": "0",
+  "lineageTag": "9a22bf85-70c7-43ba-bfe8-500c2e8079fe",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

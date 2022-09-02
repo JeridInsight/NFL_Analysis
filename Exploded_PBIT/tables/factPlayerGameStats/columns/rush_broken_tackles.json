@@ -1,0 +1,14 @@
+{
+  "name": "rush_broken_tackles",
+  "dataType": "int64",
+  "sourceColumn": "rush_broken_tackles",
+  "formatString": "0",
+  "lineageTag": "3370b885-396f-4a5c-bf99-3ffc35629b40",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "total_ret_td",
+  "dataType": "int64",
+  "sourceColumn": "total_ret_td",
+  "formatString": "0",
+  "lineageTag": "41c47252-4614-4643-aef0-f60739876efd",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

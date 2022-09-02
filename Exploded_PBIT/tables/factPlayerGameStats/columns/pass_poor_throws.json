@@ -1,0 +1,14 @@
+{
+  "name": "pass_poor_throws",
+  "dataType": "int64",
+  "sourceColumn": "pass_poor_throws",
+  "formatString": "0",
+  "lineageTag": "6b2b6e77-d316-4ba3-bba7-da53146be57d",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

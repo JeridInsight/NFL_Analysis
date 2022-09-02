@@ -1,0 +1,13 @@
+{
+  "name": "Home_Team",
+  "dataType": "string",
+  "sourceColumn": "Home_Team",
+  "lineageTag": "88f15643-65d7-4756-9a83-76609f820e6b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

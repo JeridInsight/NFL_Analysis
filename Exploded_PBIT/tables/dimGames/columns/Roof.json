@@ -1,0 +1,13 @@
+{
+  "name": "Roof",
+  "dataType": "string",
+  "sourceColumn": "Roof",
+  "lineageTag": "25723eca-ab18-4b26-83e9-c0c4f5ee8247",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

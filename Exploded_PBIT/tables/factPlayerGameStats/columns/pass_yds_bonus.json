@@ -1,0 +1,14 @@
+{
+  "name": "pass_yds_bonus",
+  "dataType": "int64",
+  "sourceColumn": "pass_yds_bonus",
+  "formatString": "0",
+  "lineageTag": "a7bf61e4-ae2f-4a18-8c21-34684dae7fa8",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

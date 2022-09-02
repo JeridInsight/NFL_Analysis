@@ -1,0 +1,13 @@
+{
+  "name": "Oppo_abbrev",
+  "dataType": "string",
+  "sourceColumn": "Oppo_abbrev",
+  "lineageTag": "649a432e-305e-4775-a846-782a68bd178d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

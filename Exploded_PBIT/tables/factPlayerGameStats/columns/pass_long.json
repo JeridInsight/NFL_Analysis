@@ -1,0 +1,14 @@
+{
+  "name": "pass_long",
+  "dataType": "int64",
+  "sourceColumn": "pass_long",
+  "formatString": "0",
+  "lineageTag": "4e6b3d95-8400-4f1f-88dc-42518bd5f1e5",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

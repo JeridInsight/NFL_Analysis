@@ -1,0 +1,13 @@
+{
+  "name": "Player_Full_Name",
+  "dataType": "string",
+  "sourceColumn": "Player_Full_Name",
+  "lineageTag": "fe57496d-e133-417e-b6be-ee6b16b89cb4",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

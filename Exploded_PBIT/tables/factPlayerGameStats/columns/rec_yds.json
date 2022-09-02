@@ -1,0 +1,14 @@
+{
+  "name": "rec_yds",
+  "dataType": "int64",
+  "sourceColumn": "rec_yds",
+  "formatString": "0",
+  "lineageTag": "10914749-9d1e-45fb-ab0f-887ea3ece2a2",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

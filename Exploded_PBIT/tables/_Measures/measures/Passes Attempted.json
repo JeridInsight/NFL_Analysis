@@ -1,0 +1,7 @@
+{
+  "name": "Passes Attempted",
+  "expression": "CALCULATE(SUM(factPlayerGameStats[pass_att]))",
+  "formatString": "0",
+  "displayFolder": "Base_Measures\\Passing",
+  "lineageTag": "1cda6406-de54-4e09-8de1-1f30154e43cc"
+}

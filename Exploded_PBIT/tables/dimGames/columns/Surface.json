@@ -1,0 +1,13 @@
+{
+  "name": "Surface",
+  "dataType": "string",
+  "sourceColumn": "Surface",
+  "lineageTag": "77b117db-7aef-467a-9df1-d733956aa3f5",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

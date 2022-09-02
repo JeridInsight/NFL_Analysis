@@ -1,0 +1,14 @@
+{
+  "name": "rush_yac",
+  "dataType": "int64",
+  "sourceColumn": "rush_yac",
+  "formatString": "0",
+  "lineageTag": "7c964e84-06d9-4f1d-baaa-3f2a47326248",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

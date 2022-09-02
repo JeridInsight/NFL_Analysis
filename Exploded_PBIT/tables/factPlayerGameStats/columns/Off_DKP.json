@@ -1,0 +1,17 @@
+{
+  "name": "Off_DKP",
+  "dataType": "double",
+  "sourceColumn": "Off_DKP",
+  "lineageTag": "2a069ce0-d35d-44c3-9f8b-31f4d2ab5fab",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

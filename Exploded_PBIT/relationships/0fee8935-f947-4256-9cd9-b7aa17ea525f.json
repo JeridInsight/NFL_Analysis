@@ -1,0 +1,7 @@
+{
+  "name": "0fee8935-f947-4256-9cd9-b7aa17ea525f",
+  "fromTable": "factPlayerGameStats",
+  "fromColumn": "game_id",
+  "toTable": "dimGames",
+  "toColumn": "Game_ID"
+}

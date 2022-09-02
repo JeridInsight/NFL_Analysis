@@ -1,0 +1,14 @@
+{
+  "name": "comb_pass_play",
+  "dataType": "int64",
+  "sourceColumn": "comb_pass_play",
+  "formatString": "0",
+  "lineageTag": "e58fc415-e823-4477-aeec-ff34ec3b2e68",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rush_scrambles",
+  "dataType": "int64",
+  "sourceColumn": "rush_scrambles",
+  "formatString": "0",
+  "lineageTag": "d6e6c6f1-faff-43a2-b34f-14ce892f3cb6",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

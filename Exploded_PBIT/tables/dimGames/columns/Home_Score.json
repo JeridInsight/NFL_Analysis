@@ -1,0 +1,14 @@
+{
+  "name": "Home_Score",
+  "dataType": "int64",
+  "sourceColumn": "Home_Score",
+  "formatString": "0",
+  "lineageTag": "c645a870-da5e-4d34-a0f1-aa048106d959",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

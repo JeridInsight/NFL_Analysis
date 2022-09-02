@@ -1,0 +1,14 @@
+{
+  "name": "rec_yac",
+  "dataType": "int64",
+  "sourceColumn": "rec_yac",
+  "formatString": "0",
+  "lineageTag": "d561f4af-dd30-4630-8608-46ca5b4a0e0e",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

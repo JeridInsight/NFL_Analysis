@@ -1,0 +1,18 @@
+{
+  "name": "Game_Date",
+  "dataType": "dateTime",
+  "sourceColumn": "Game_Date",
+  "formatString": "Long Date",
+  "lineageTag": "77ab940b-bd38-4fcf-8f85-db69d985f5ae",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}
